@@ -21,6 +21,7 @@ def first_challenge
               data.delete_if{flavor == "strawberry"}      
             end
         end
+      end
 
   #remember to return your newly altered contacts hash!
   return contacts
