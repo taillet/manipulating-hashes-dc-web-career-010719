@@ -8,6 +8,6 @@ def second_challenge
 
   #code your solution here!
 
-  print groceries.values
+   groceries.values
 
 end
